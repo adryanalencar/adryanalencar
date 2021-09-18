@@ -45,8 +45,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=adryanalencar&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanalencar&layout=compact&langs_count=7&theme=merko&show_icons=true"/>
 </div>
-  ![Snake animation](https://raw.githubusercontent.com/AdryanAlencar/adryanalencar/output/github-contribution-grid-snake.svg)
-
+  <img align="center" src="https://raw.githubusercontent.com/AdryanAlencar/adryanalencar/output/github-contribution-grid-snake.svg"/>
 <br />
 <br />
 <br />
