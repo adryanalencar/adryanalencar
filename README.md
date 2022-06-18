@@ -7,9 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=adryanalencar&label=Profile%20views&color=0e75b6&style=flat" alt="adryanalencar" /> 
 </p>
 
-- 🔭 Atualemente trabalhando em [Cmsis-IO](https://github.com/AdryanAlencar/cmsis-io)
+- 🔭 Atualemente trabalhando em [@StarkBank](https://github.com/starkbank)
 
-- 🌱 Estudando atualmente **Microcontroladores, c/c++, linux**
+- 🌱 Estudando atualmente **Serviços em Cloud**
 
 - 📫 Como me encontrar **adryan.alencar@sevenfox.com.br**
 
