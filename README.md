@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=adryanalencar&label=Profile%20views&color=0e75b6&style=flat" alt="adryanalencar" /> 
 </p>
 
-- 🔭 Atualemente trabalhando em [@StarkBank](https://github.com/starkbank)
+- 🔭 Atualmente trabalhando em [@StarkBank](https://github.com/starkbank)
 
 - 🌱 Estudando atualmente **Serviços em Cloud**
 
