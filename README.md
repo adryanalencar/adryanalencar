@@ -7,11 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=adryanalencar&label=Profile%20views&color=0e75b6&style=flat" alt="adryanalencar" /> 
 </p>
 
-- 🔭 Atualmente trabalhando em [@StarkBank](https://github.com/starkbank)
+- 🔭 Atualmente trabalhando em [@StarkBank](https://github.com/Kanastra-Tech)
 
 - 🌱 Estudando atualmente **Serviços em Cloud**
 
-- 📫 Como me encontrar **adryan.alencar@sevenfox.com.br**
+- 📫 Como me encontrar **devadryan@gmail.com**
 
 - ⚡ Fun fact **Eu odiava frontend**
 
