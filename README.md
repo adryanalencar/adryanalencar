@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=adryanalencar&label=Profile%20views&color=0e75b6&style=flat" alt="adryanalencar" /> 
 </p>
 
-- 🔭 Atualmente trabalhando em [@StarkBank](https://github.com/Kanastra-Tech)
+- 🔭 Atualmente trabalhando em [@Kanastra](https://github.com/Kanastra-Tech)
 
 - 🌱 Estudando atualmente **Serviços em Cloud**
 
